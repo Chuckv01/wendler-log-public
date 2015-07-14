@@ -1,4 +1,4 @@
-
+[Wendler 5/3/1 App](http://vandersoft.co/app/wendler-531-app/)
 
 <b>The easiest way to track and automatically calculate your Wendler 5/3/1 powerlifting routine.</b>
 
